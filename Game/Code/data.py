@@ -2,40 +2,40 @@
 
 
 # Backgrounds
-BACKGROUNDS = ["Project/Game/Backgrounds/BG-one.png", "Project/Game/Backgrounds/BG-two.png", 
-                "Project/Game/Backgrounds/BG-three.png", "Project/Game/Backgrounds/BG-four.png"]
+BACKGROUNDS = ["Game/Backgrounds/BG-one.png", "Game/Backgrounds/BG-two.png", 
+                "Game/Backgrounds/BG-three.png", "Game/Backgrounds/BG-four.png"]
 
 
 # Characters
 # Biker images
-BIKER = ["Project/Game/Characters/Biker/Biker_idle.png", 
-         "Project/Game/Characters/Biker/DownRight.png", "Project/Game/Characters/Biker/DownLeft.png", 
-         "Project/Game/Characters/Biker/UpRight.png", "Project/Game/Characters/Biker/UpLeft.png"]
+BIKER = ["Game/Characters/Biker/Biker_idle.png", 
+         "Game/Characters/Biker/DownRight.png", "Game/Characters/Biker/DownLeft.png", 
+         "Game/Characters/Biker/UpRight.png", "Game/Characters/Biker/UpLeft.png"]
 # Cyborg images
-CYBORG = ["Project/Game/Characters/Cyborg/Cyborg_idle.png",
-          "Project/Game/Characters/Cyborg/DownRight.png", "Project/Game/Characters/Cyborg/DownLeft.png", 
-          "Project/Game/Characters/Cyborg/UpRight.png", "Project/Game/Characters/Cyborg/UpLeft.png"]
+CYBORG = ["Game/Characters/Cyborg/Cyborg_idle.png",
+          "Game/Characters/Cyborg/DownRight.png", "Game/Characters/Cyborg/DownLeft.png", 
+          "Game/Characters/Cyborg/UpRight.png", "Game/Characters/Cyborg/UpLeft.png"]
 # Punk images
-PUNK = ["Project/Game/Characters/Punk/Punk_idle.png", 
-        "Project/Game/Characters/Punk/DownRight.png", "Project/Game/Characters/Punk/DownLeft.png",
-         "Project/Game/Characters/Punk/UpRight.png", "Project/Game/Characters/Punk/UpLeft.png"]
+PUNK = ["Game/Characters/Punk/Punk_idle.png", 
+        "Game/Characters/Punk/DownRight.png", "Game/Characters/Punk/DownLeft.png",
+         "Game/Characters/Punk/UpRight.png", "Game/Characters/Punk/UpLeft.png"]
 
 
 # Drones
-DRONES = ["Project/Game/Drones/DroneOne.png", "Project/Game/Drones/DroneTwo.png", 
-          "Project/Game/Drones/DroneThree.png", "Project/Game/Drones/DroneFour.png"]
+DRONES = ["Game/Drones/DroneOne.png", "Game/Drones/DroneTwo.png", 
+          "Game/Drones/DroneThree.png", "Game/Drones/DroneFour.png"]
 
 # "Eggs"
-AVERAGE_WORK = "Project/Game/Other/work.png"
-RISKY_WORK = "Project/Game/Other/riskyWork.png"
+AVERAGE_WORK = "Game/Other/work.png"
+RISKY_WORK = "Game/Other/riskyWork.png"
 
 # To hide prevoius objects
-CLOAK = "Project/Game/Other/hide.png"
+CLOAK = "Game/Other/hide.png"
 
 # Icon
-ICON = "Project/Game/Other/icon.png"
+ICON = "Game/Other/icon.png"
 
 # Fonts
-BASIC_FONT = 'Project/Game/Font-futuremillennium/FutureMillennium.ttf'
-BOLD_FONT = 'Project/Game/Font-futuremillennium/FutureMillennium Black.ttf'
-ITALIC_FONT = 'Project/Game/Font-futuremillennium/FutureMillennium Italic.ttf'
+BASIC_FONT = 'Game/Font-futuremillennium/FutureMillennium.ttf'
+BOLD_FONT = 'Game/Font-futuremillennium/FutureMillennium Black.ttf'
+ITALIC_FONT = 'Game/Font-futuremillennium/FutureMillennium Italic.ttf'
