@@ -1,0 +1,3 @@
+Settings. Please, modify text only after columns.
+Character(Cyborg/Punk/Biker): Cyborg
+Difficulty(Easy/Average/Hard): Average
